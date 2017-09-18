@@ -149,4 +149,5 @@ http://172.28.128.254/
 ## 延伸閱讀
 
 [OpenStack Kolla 官方文件](https://docs.openstack.org/kolla/latest/)
+
 [OpenStack Kolla-Ansible 官方文件](https://docs.openstack.org/kolla-ansible/latest/)
